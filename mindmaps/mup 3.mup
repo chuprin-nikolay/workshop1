@@ -1,0 +1,11 @@
+{
+  "title": "mup 3",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "русский UTF-8",
+      "id": 2
+    }
+  }
+}
